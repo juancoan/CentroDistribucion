@@ -1,0 +1,9 @@
+c:\users\adolfo\documents\visual studio 2015\Projects\CentroDistribucion\CentroDistribucion\bin\Debug\CentroDistribucion.exe.config
+c:\users\adolfo\documents\visual studio 2015\Projects\CentroDistribucion\CentroDistribucion\bin\Debug\CentroDistribucion.exe
+c:\users\adolfo\documents\visual studio 2015\Projects\CentroDistribucion\CentroDistribucion\bin\Debug\CentroDistribucion.pdb
+c:\users\adolfo\documents\visual studio 2015\Projects\CentroDistribucion\CentroDistribucion\obj\Debug\CentroDistribucion.csprojResolveAssemblyReference.cache
+c:\users\adolfo\documents\visual studio 2015\Projects\CentroDistribucion\CentroDistribucion\obj\Debug\CentroDistribucion.Form1.resources
+c:\users\adolfo\documents\visual studio 2015\Projects\CentroDistribucion\CentroDistribucion\obj\Debug\CentroDistribucion.Properties.Resources.resources
+c:\users\adolfo\documents\visual studio 2015\Projects\CentroDistribucion\CentroDistribucion\obj\Debug\CentroDistribucion.csproj.GenerateResource.Cache
+c:\users\adolfo\documents\visual studio 2015\Projects\CentroDistribucion\CentroDistribucion\obj\Debug\CentroDistribucion.exe
+c:\users\adolfo\documents\visual studio 2015\Projects\CentroDistribucion\CentroDistribucion\obj\Debug\CentroDistribucion.pdb
